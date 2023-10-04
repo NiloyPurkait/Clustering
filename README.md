@@ -1,2 +1,3 @@
-# Clustering
-Introductory lesson to unsupervised learning
+# Unsupervised learning
+- Clustering
+- Dimensionality reduction
