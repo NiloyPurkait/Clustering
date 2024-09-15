@@ -7,9 +7,8 @@ This repo contains two lesson tracks I made on key topics in unsupervised learni
 ### 1. Dimensionality Reduction
 In this track, we explore various matrix factorization-based methods for reducing the dimensionality of data. The lessons include:
 
-- **Theory and Mathematics**: Understand the mathematical concepts behind dimensionality reduction techniques.
-- **Principal Component Analysis (PCA)**: Learn how PCA reduces dimensionality while retaining variance and how to apply it using `scikit-learn`.
-- **Sparse PCA**: Discover how Sparse PCA extends PCA by adding sparsity to the components.
+- **Theory and Mathematics**: Understand the mathematical concepts behind dimensionality reduction techniques based on matrix factorization and neighborhood graphs.
+- **Principal Component Analysis (PCA)**: Learn how `PCA`, `Sparse PCA`, 'Kernel PCA' reduce dimensionality while retaining variance and how to apply it using `scikit-learn`.
 - **Non-Negative Matrix Factorization (NMF)**: Dive into NMF, a powerful technique for extracting meaningful features from non-negative data.
 - **Practical Implementation**: Hands-on tutorials using `numpy`, `scipy`, and `scikit-learn` to apply these techniques to real-world datasets.
 
