@@ -1,6 +1,6 @@
-# Machine Learning Lessons: Dimensionality Reduction & Clustering
+# Unsupervised Learning lessons
 
-This repo contains two comprehensive lesson tracks on key topics in unsupervised learning: **Dimensionality Reduction** and **Clustering**. Each track dives deep into the theory, mathematical foundations, and practical implementation using `scikit-learn`, `numpy`, `pandas` and `scipy`.
+This repo contains two lesson tracks I made on key topics in unsupervised learning: **Dimensionality Reduction** and **Clustering**. Each track dives deep into the theory, mathematical foundations, and practical implementation using `scikit-learn`, `numpy`, `pandas` and `scipy`.
 
 ## Lesson Tracks Overview
 
