@@ -2,7 +2,7 @@
 
 This repo contains two lesson tracks I made on key topics in unsupervised learning: **Dimensionality Reduction** and **Clustering**. Each track dives deep into the theory, mathematical foundations, and practical implementation using `scikit-learn`, `numpy`, `pandas` and `scipy`.
 
-![UL](./UL.gif)
+![UL](./ul.gif)
 
 
 ## Lesson Tracks Overview
@@ -24,28 +24,5 @@ This track focuses on the theory and implementation of various clustering algori
 - **DBSCAN**: Understand the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm for discovering clusters in spatial data.
 - **Other Clustering Algorithms**: A look at other clustering methods available in `scikit-learn`, such as Mean-Shift and Spectral Clustering.
 - **Implementation in Python**: Tutorials on implementing and applying these clustering algorithms using `scikit-learn`.
-
-## Getting Started
-
-To get started with the lessons:
-
-1. **Clone this repository**:
-    ```bash
-    git clone https://github.com/yourusername/machine-learning-lessons.git
-    cd machine-learning-lessons
-    ```
-2. **Set up the environment**:
-   - Ensure you have Python installed.
-   - Install the required packages:
-     ```bash
-     pip install -r requirements.txt
-     ```
-3. **Navigate to the lesson track of your choice**:
-   - For Dimensionality Reduction: Go to the `dimensionality_reduction` directory.
-   - For Clustering: Go to the `clustering` directory.
-
-## Structure
-
-The repository is structured as follows:
 
 
