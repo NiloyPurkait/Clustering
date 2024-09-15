@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="./dim_reduction.png.gif" alt="UL">
+  <img src="./dim_reduction.png" alt="UL">
 </p>
